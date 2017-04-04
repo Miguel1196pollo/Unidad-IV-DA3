@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WSCalificacionCeneval</string>
+    <string name="nombre_alumno">Nombre Alumno</string>
+    <string name="fecha_edicion">Fecha Edicion</string>
+    <string name="calificacion">Calificacion</string>
+    <string name="activo">Activo</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="regresar">Regresar</string>
+    <string name="activoo">Activo</string>
+</resources>

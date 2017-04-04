@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WSActividadExtraclase</string>
+    <string name="cve_extraclase">Cve Extraclase</string>
+    <string name="description">Description</string>
+    <string name="lugar">Lugar</string>
+    <string name="total_horas">Total Horas</string>
+    <string name="tipo_actividad">Tipo Actividad</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="action_settings">Action settings</string>
+    <string name="regresar">Regresar</string>
+</resources>

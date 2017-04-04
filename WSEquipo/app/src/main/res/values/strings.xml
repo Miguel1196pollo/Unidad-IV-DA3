@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WSEquipo</string>
+    <string name="tipo_equipo">Tipo de equipo</string>
+    <string name="numero_equipo">Numero Equipo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="filial">Filial</string>
+    <string name="estatus">Estatus</string>
+    <string name="guardar">Guardar</string>
+    <string name="listar">Listar</string>
+    <string name="regresar">Regresar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="action_settings">Action Settings</string>
+</resources>
